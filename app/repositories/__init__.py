@@ -1,0 +1,1 @@
+"""Consultas SQL a PostgreSQL."""
